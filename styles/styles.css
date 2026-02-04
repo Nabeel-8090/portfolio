@@ -307,8 +307,8 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .github {
   width: 90%;
@@ -319,8 +319,8 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .xlsx {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 60%;
 }
 
 .stat-title {
